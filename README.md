@@ -3,8 +3,8 @@ Using Kornia to augment data on GPU
 
 ## Kornia is a differentiable computer vision library for PyTorch.
 
-### Make sure that CUDA is properly setup in your system.
-### I have used CUDA Version 10.2
+Make sure that CUDA is properly setup in your system.
+I have used CUDA Version 10.2
 
 
 ## prerequisites
